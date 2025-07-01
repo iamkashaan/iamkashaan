@@ -21,3 +21,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamkashaan&show_icons=true&locale=en" alt="iamkashaan" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamkashaan/iamkashaan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamkashaan/iamkashaan/output/pacman-contribution-graph.svg">
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/iamkashaan/iamkashaan/output/pacman-contribution-graph.svg">
+</picture>
