@@ -20,7 +20,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,py,yaml,linux,docker,kubernetes,jenkins,githubactions,terraform,ansible,aws,grafana,prometheus,git" height="50" />
+  <img src="https://skillicons.dev/icons?i=bash,py,linux,docker,kubernetes,jenkins,githubactions,terraform,ansible,aws,grafana,prometheus,git" height="50" />
 </div>
 
 ---
