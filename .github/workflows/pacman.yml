@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit and Push if Changed
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "iamkashaan"
+          git config --global user.email "mohdkashaan2002.mk@gmail.com"
           git add output/*
           git diff --cached --quiet || git commit -m "chore: update pacman contribution graph"
           git push
